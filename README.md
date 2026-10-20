@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruna Bauer</h1>
+<h1 align="center"> Bruna Bauer 👾 </h1>
 <h3 align="center">First year Student of Applied Computer Science at DIT</h3>
 
 - 🌱 I’m currently learning **C-Programming Language**
